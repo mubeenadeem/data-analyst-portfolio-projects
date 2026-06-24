@@ -66,9 +66,9 @@ Analyzed IBM HR dataset of 1,470 employees to find the key reasons why employees
 
 | Role | Company | Duration |
 |---|---|---|
-| Machine Learning Intern | FlyRank | Jul 2025 – Aug 2025 |
-| Data Analyst Intern | Progree | Jun 2025 – Jul 2025 |
-| Data Analyst Intern | Decode Labs | May 2025 – Jun 2025 |
+| Machine Learning Intern | FlyRank | Jul 2026 – Aug 2026 |
+| Data Analyst Intern | Progree | Jun 2026 – Jul 2026 |
+| Data Analyst Intern | Decode Labs | May 2026 – Jun 2026 |
 
 ---
 
