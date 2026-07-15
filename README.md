@@ -76,7 +76,7 @@ Built a retail sales dashboard analyzing 2,200+ transactions across Khaadi's Ess
 
 **Dashboard Pages:** Sales Overview · Collection Breakdown · City Performance · Fabric Analysis
 
-📊 [View Dashboard PDF](04_Khaadi_Sales_Dashboard/khaadi-dashboard.pdf)
+📊 [View Dashboard PDF](03_Khaadi_Sales_Dashboard/khaadi-dashboard.pdf)
 
 ---
 
@@ -92,7 +92,7 @@ Extended the UK E-Commerce dashboard project with SQL to answer deeper business 
 - Revenue peaks in **November** (~£1.42M), consistent with holiday demand
 - **Shipping/postage** line items rank in the top 10 revenue generators — a meaningful revenue stream, not just a cost
 
-📓 [View Full SQL Analysis](03_UK_Ecommerce_SQL_Analysis/README.md)
+📓 [View Full SQL Analysis](04_UK_Ecommerce_SQL_Analysis/README.md)
 
 ---
 
