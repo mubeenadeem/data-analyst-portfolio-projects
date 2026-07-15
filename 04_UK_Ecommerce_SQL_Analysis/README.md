@@ -28,7 +28,7 @@ LIMIT 10;
 ```
 **Result:** Regency Cakestand 3 Tier leads (£327,813), followed by Dotcom Postage (£322,647).
 
-![Top Products](screenshots/01_top_products.png)
+![Top Products](Top%20product.png)
 
 ---
 
@@ -41,7 +41,7 @@ ORDER BY month;
 ```
 **Result:** Revenue peaks in Nov 2010 (£1.42M), consistent with holiday shopping season.
 
-![Monthly Trend](screenshots/02_monthly_trend.png)
+![Monthly Trend](Monthly%20revenue%20trend.png)
 
 ---
 
@@ -55,8 +55,7 @@ LIMIT 10;
 ```
 **Result:** UK dominates (£16.38M); EIRE, Netherlands, and Germany follow at far lower volumes.
 
-![Top Countries](screenshots/03_top_countries.png)
-
+![Top Countries](Top%20countries%20by%20revenue.png)
 ---
 
 ### 4. Repeat customer rate
@@ -73,7 +72,7 @@ FROM (
 ```
 **Result:** 75.41% repeat purchase rate (4,481 of 5,942 customers).
 
-![Repeat Rate](screenshots/04_repeat_rate.png)
+![Repeat Rate](Repeat%20customer%20rate.png)
 
 ---
 
@@ -86,7 +85,7 @@ ORDER BY month;
 ```
 **Result:** AOV fluctuates between ~£254–£388, with no extreme seasonal spike in order size — revenue growth is driven more by order volume than order size.
 
-![AOV](screenshots/05_aov.png)
+![AOV](Average%20order%20value%20by%20month.png)
 
 ---
 
@@ -101,7 +100,7 @@ LIMIT 10;
 ```
 **Result:** Top customer (ID 18102) spent ~£598K across 153 orders — notable revenue concentration among a small group of customers.
 
-![Top Customers](screenshots/06_top_customers.png)
+![Top Customers](Top%20customer%20by%20total%20spend.png)
 
 ---
 
@@ -116,7 +115,7 @@ LIMIT 10;
 ```
 **Result:** Mostly low-cost novelty items (mugs, decorations) under £1 in total revenue — candidates for catalog pruning.
 
-![Worst Products](screenshots/07_worst_products.png)
+![Worst Products](Worst%20performing%20product.png)
 
 ---
 
@@ -129,7 +128,7 @@ ORDER BY total_orders DESC;
 ```
 **Result:** Thursday is the peak order day (11,335); Saturday is nearly zero (32) — likely no Saturday operations.
 
-![Orders by Day](screenshots/08_orders_by_day.png)
+![Orders by Day](Order%20volume%20by%20day%20of%20week.png)
 
 ---
 
